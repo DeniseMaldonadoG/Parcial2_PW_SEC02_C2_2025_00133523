@@ -1,0 +1,24 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00133523",
+  "version": "1.0.0",
+  "description": "Parcial 2. Parte Práctica",
+   "type": "module",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeniseMaldonadoG/Parcial2_PW_SEC02_C2_2025_00133523.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeniseMaldonadoG/Parcial2_PW_SEC02_C2_2025_00133523/issues"
+  },
+  "homepage": "https://github.com/DeniseMaldonadoG/Parcial2_PW_SEC02_C2_2025_00133523#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
